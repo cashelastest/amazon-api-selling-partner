@@ -1,11 +1,8 @@
 {
-  "name": "@cashelastest/amazon-api-selling-partner",
-  "version": "1.9.7",
+  "name": "@cashelastest/n8n-nodes-amazon-api-selling-partner-customized",
+  "version": "1.9.8",
   "description": "Custom n8n node for the Amazon Selling Partner API",
   "main": "index.js",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "scripts": {
     "build": "tsc && gulp build",
     "dev": "tsc --watch",
@@ -32,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cashelastest/amazon-api-selling-partner.git"
+    "url": "git+https://github.com/cashelastest/n8n-nodes-amazon-api-selling-partner-customized.git"
   },
   "author": "n8n",
   "license": "MIT",
