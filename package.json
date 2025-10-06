@@ -1,5 +1,5 @@
 {
-  "name": "@cashelastest/n8n-nodes-amazon-api-selling-partner-customized",
+  "name": "n8n-nodes-amazon-api-selling-partner-customized",
   "version": "1.9.12",
   "description": "Custom n8n node for the Amazon Selling Partner API",
   "main": "index.js",
